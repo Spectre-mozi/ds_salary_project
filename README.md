@@ -1,2 +1,1 @@
-# ds_salary_project
-The second data science interview
+#Exploratory Data Analysis | Bike Store 
